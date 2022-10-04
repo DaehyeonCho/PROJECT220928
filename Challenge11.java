@@ -84,7 +84,7 @@ public class Challenge11 {
 			System.out.println(div.calculate());
 			break;
 		default:
-			System.out.println("다시 입력하세오.");
+			System.out.println("다시 입력하오.");
 		}
 	}
 
